@@ -30,6 +30,7 @@
   color: fade(white, 80%);
   outline: none;
   background-color: transparent;
+}image
 
 #mainNav .navbar-nav .nav-item:active, #mainNav .navbar-nav .nav-item:focus {
   outline: none;
@@ -97,7 +98,7 @@
 }
 
 .masthead h1 {
-  font-family: 'Oswald';
+  font-family: 'Varela Round';
   font-size: 2.5rem;
   line-height: 2.5rem;
   letter-spacing: 0.8rem;
