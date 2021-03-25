@@ -47,40 +47,40 @@
   }
   #mainNav .navbar-brand {
     padding: .5rem 0;
-    color: #d5a30de0(255, 255, 255, 0.5);
+    color: #64a19d(255, 255, 255, 0.5);
   }
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: #d5a30de0(255, 255, 255, 0.5);
+    color: #64a19d(255, 255, 255, 0.5);
   }
   #mainNav .nav-link:hover {
-    color: #d5a30de0(255, 255, 255, 0.75);
+    color: #64a19d(255, 255, 255, 0.75);
   }
   #mainNav .nav-link:active {
     color: rgba;
   }
   #mainNav.navbar-shrink {
-    background-color: #d5a30de0;
+    background-color: #64a19d;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #d5a30de0;
+    color: #64a19d;
   }
   #mainNav.navbar-shrink .nav-link {
-    color: #d5a30de0;
+    color: #64a19d;
     padding: 1.5rem 1.5rem 1.25rem;
     border-bottom: 0.25rem solid transparent;
   #mainNav.navbar-shrink .nav-link:hover {
   }
-    color: #d5a30de0;
+    color: #64a19d;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #d5a30de0;
+    color: #;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #d5a30de0;
+    color: #64a19d;
     outline: none;
-    border-bottom: 0.25rem solid #d5a30de0;
+    border-bottom: 0.25rem solid #64a19d;
   }
 }
 
