@@ -47,12 +47,12 @@
   }
   #mainNav .navbar-brand {
     padding: .5rem 0;
-    color: #b3b5b7(255, 255, 255, 0.5);
+    color: #030908(255, 255, 255, 0.5);
   }
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: #b3b5b7(255, 255, 255, 0.5);
+    color: #030908(255, 255, 255, 0.5);
   }
   #mainNav .nav-link:hover {
     color: #c1c1c1(255, 255, 255, 0.75);
@@ -78,9 +78,9 @@
     color: #;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #b3b5b7;
+    color: #030908;
     outline: none;
-    border-bottom: 0.25rem solid #b3b5b7;
+    border-bottom: 0.25rem solid #030908;
   }
 }
 
