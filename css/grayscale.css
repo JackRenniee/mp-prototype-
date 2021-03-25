@@ -47,12 +47,12 @@
   }
   #mainNav .navbar-brand {
     padding: .5rem 0;
-    color: #d5a30de0(255, 255, 255, 0.5);
+    color: #030908(255, 255, 255, 0.5);
   }
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: #64a19d(255, 255, 255, 0.5);
+    color: #030908(255, 255, 255, 0.5);
   }
   #mainNav .nav-link:hover {
     color: #c1c1c1(255, 255, 255, 0.75);
