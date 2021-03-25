@@ -21,7 +21,7 @@
 }
 
 #mainNav .navbar-brand {
-  color: #161616;
+  color: #d5a30de0;
   font-weight: 700;
   padding: .9rem 0;
 }
@@ -47,40 +47,40 @@
   }
   #mainNav .navbar-brand {
     padding: .5rem 0;
-    color: rgba(255, 255, 255, 0.5);
+    color: #d5a30de0(255, 255, 255, 0.5);
   }
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: #d5a30de0(255, 255, 255, 0.5);
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.75);
+    color: #d5a30de0(255, 255, 255, 0.75);
   }
   #mainNav .nav-link:active {
     color: rgba;
   }
   #mainNav.navbar-shrink {
-    background-color: #fff;
+    background-color: #d5a30de0;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #161616;
+    color: #d5a30de0;
   }
   #mainNav.navbar-shrink .nav-link {
-    color: #161616;
+    color: #d5a30de0;
     padding: 1.5rem 1.5rem 1.25rem;
     border-bottom: 0.25rem solid transparent;
-  }
   #mainNav.navbar-shrink .nav-link:hover {
-    color: #64a19d;
+  }
+    color: #d5a30de0;
   }
   #mainNav.navbar-shrink .nav-link:active {
-    color: #467370;
+    color: #d5a30de0;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #64a19d;
+    color: #d5a30de0;
     outline: none;
-    border-bottom: 0.25rem solid #64a19d;
+    border-bottom: 0.25rem solid #d5a30de0;
   }
 }
 
