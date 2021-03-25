@@ -58,7 +58,7 @@
     color: #c1c1c1(255, 255, 255, 0.75);
   }
   #mainNav .nav-link:active {
-    color: rgba;
+        color: #c5c7c8;
   }
   #mainNav.navbar-shrink {
     background-color: #f8f9fa;
