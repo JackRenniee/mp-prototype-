@@ -228,7 +228,7 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #c29612;
 }
 
 .contact-section .card h4 {
@@ -239,7 +239,7 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 .contact-section .card hr {
-  border-color: #64a19d;
+  border-color: #c29612;
   border-width: 0.25rem;
   width: 3rem;
 }
