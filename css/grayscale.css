@@ -146,20 +146,20 @@ font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #d5a30de0;
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: #d5a30de0;
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #d5a30de0;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: #d5a30de0 !important;
 }
 
 .about-section {
